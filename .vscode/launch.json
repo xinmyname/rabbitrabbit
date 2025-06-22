@@ -1,0 +1,19 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "C#: mkprairie Debug",
+            "type": "coreclr",
+            "request": "launch",
+            "program": "${workspaceFolder}/mkprairie/bin/Debug/net9.0/mkprairie.dll",
+            "args": [
+                "160x90",
+                "5",
+                "output.txt"
+            ]
+        }
+    ]
+}
