@@ -31,6 +31,7 @@ while (rabbits.Count < numRabbits)
 
 using (var writer = new StreamWriter(outputFile, false, Encoding.UTF8))
 {
+    writer.NewLine = "\n"; // Force UNIX line endings
     writer.WriteLine($"{width}x{height}");
 
     for (int y = 0; y < height; y++)

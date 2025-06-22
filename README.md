@@ -1,7 +1,7 @@
 # rabbitrabbit
 Find the rabbits!
 
-Sample input file (UTF-8, with BOM):
+Sample input file (UTF-8, with BOM, LF line endings):
 
 ```txt
 16x9
