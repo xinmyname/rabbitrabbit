@@ -11,6 +11,7 @@
 * If the person running your program hits Ctrl-C while it's running, immediately stop processing and output "I stopped looking for rabbits."
 * Optional: Sort the output by the y coordinate first, followed by the x coordinate.
 * The source code for the grid generator is included in the **mkprarie** folder, if you want to generate your own grids.
+* Fastest wins. Your time starts now.
 
 ## Sample Input
 
